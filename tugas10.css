@@ -1,0 +1,20 @@
+.satu{
+  width: 650px;
+  height: 400px;
+  margin: 0 auto;
+  background-image: radial-gradient(circle at bottom center, white, blue)
+}
+
+.dua{
+  width: 650px;
+  height: 190px;
+  margin: 0 auto;
+  background-image: linear-gradient(
+    to right,
+    white, blue, white);
+}
+
+body{
+  background-image: linear-gradient(to top right, red, pink, white);
+  font-size: cover;
+}
